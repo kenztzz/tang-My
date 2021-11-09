@@ -5,7 +5,7 @@ const CONFIG = {
     
     A có 1 siêu năng lực
     đó là nhắm mắt lại là có thể thấy e:'>>`,
-    btnIntro: 'iu qué nefee :'>',
+    btnIntro: 'iu qué nèee :'>',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'thích qué rùi nèee <33',
