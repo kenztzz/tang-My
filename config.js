@@ -1,10 +1,10 @@
 const CONFIG = {
     introTitle: 'Babie à!',
     introDesc: `Trái đất vốn dĩ lạ thường
-    Mà sao a cứ 1 mực nhớ e
+    mà sao anh cứ 1 mực nhớ eim
     
-    và a có 1 siêu năng lực
-    mắt lại là có thể thấy e:'>>`,
+    A có 1 siêu năng lực
+    đó là nhắm mắt lại là có thể thấy e:'>>`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
