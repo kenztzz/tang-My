@@ -1,19 +1,20 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Babie à!',
+    introDesc: `Trái đất vốn dĩ lạ thường
+    Mà sao a cứ 1 mực nhớ e
+    
+    và a có 1 siêu năng lực
+    mắt lại là có thể thấy e:'>>`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
+    btnYes: 'thích qué rùi nèee <33',
+    btnNo: 'A với nhà không giống nhâu đâu :3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh vậy <3',
+    btnReply: 'nói nhỏ a nghe đây <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    mess: 'i know 🥰. Luv u 3000 lunn 😘😘',
+    messDesc: 'Tối nay 7h anh rước nàng tiên xuống nhân gian nhaa ',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    messLink: 'http://fb.com/cuulan.1612' //link mess của các bạn. VD: https://m.me/nam.nodemy
+} 
