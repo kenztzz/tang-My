@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Trái đất vốn lạ thường
     Mà sao a cứ 1 mực nhớ e
     
-    S có 1 siêu năng lực
+    A có 1 siêu năng lực
     đó là nhắm mắt lại là có thể thấy e`,
     btnIntro: 'hihii',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
